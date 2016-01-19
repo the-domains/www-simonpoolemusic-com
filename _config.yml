@@ -1,0 +1,28 @@
+name: www.simonpoolemusic.com
+favicon: null
+layout_spectrum: 0.3288476658053696
+typography_spectrum: 0.19754017237573862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.46647172211669385
+  lightness: 0.7002415384631604
+  saturation: 0.6354777675587684
+  rhythmicContrast: 0.09340334264561534
+purpose: []
