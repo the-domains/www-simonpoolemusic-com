@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[www.simonpoolemusic.com]]></title>
         <description><![CDATA[www.simonpoolemusic.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/www-simonpoolemusic-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 21:45:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 21:48:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/www-simonpoolemusic-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ashes to Ashes</p>]]></description>
-            <link>undefineda6777c2a-36b6-4b93-8b7b-c92a96a7ccdd/index.html</link>
+            <link>https://thegrid.ai/www-simonpoolemusic-com/a6777c2a-36b6-4b93-8b7b-c92a96a7ccdd/index.html</link>
             <guid isPermaLink="false">a6777c2a-36b6-4b93-8b7b-c92a96a7ccdd</guid>
-            <pubDate>Tue, 19 Jan 2016 21:45:21 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 21:48:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
